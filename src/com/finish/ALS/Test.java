@@ -1,7 +1,7 @@
-package com.software.elevator;
+package com.finish.ALS;
 
 public class Test {
     public static void main(String[] args) {
-        contrl ele=new contrl();
+        contrl ctl=new contrl();
     }
 }
